@@ -1,0 +1,21 @@
+{
+	//"colors-enable" : true,
+	//"suggest.autoTrigger": "none",
+	//"diagnostic.enable": false,
+	//"signature.target": "echo",
+	//"hover.target": "echo",
+	//"signature.enable": false,
+	//"pullDiagnostic.onChange": false,
+	//"signature.preferShownAbove": false,
+	//"suggest.completionItemKindLabels": {
+//		"variable": "f"
+//	},
+	"inlayHint.enable": false,
+	"inlayHint.enableParameter": false,
+	"inlayHint.display": false,
+	"clangd.inlayHints.enable": false
+
+}
+
+	
+
