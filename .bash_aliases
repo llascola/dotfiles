@@ -1,5 +1,5 @@
 #Aliases to rename commands
-alias nvim=vim
+alias vi=nvim
 
 #ARM -
 alias arcc='arm-linux-gnueabihf-gcc -g -static'
